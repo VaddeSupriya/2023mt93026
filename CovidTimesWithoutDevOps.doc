@@ -1,0 +1,5 @@
+DevOps in different phases of software development life cycle:
+
+1.	Planning: 
+o	Without DevOps culture, the main focus in this phase would be on defining requirements, project scope, timelines, and resources. By inheriting DevOps culture, the focus has shifted to collaborative planning involving both development and operations teams to ensure alignment on requirements, infrastructure needs, and timelines.
+o	Benefits: Major challenges without DevOps culture would be potential misalignment between development and operations teams on requirements and constraints. Using DevOps this issue is resolved and there is better understanding of operational constraints and requirements from the start
