@@ -1,1 +1,26 @@
-diffrent document
+DevOps in different phases of software development life cycle:
+
+1.	Planning: 
+o	Without DevOps culture, the main focus in this phase would be on defining requirements, project scope, timelines, and resources. By inheriting DevOps culture, the focus has shifted to collaborative planning involving both development and operations teams to ensure alignment on requirements, infrastructure needs, and timelines.
+o	Benefits: Major challenges without DevOps culture would be potential misalignment between development and operations teams on requirements and constraints. Using DevOps this issue is resolved and there is better understanding of operational constraints and requirements from the start
+2.	Design:
+o	By adopting DevOps, the focus from creating architectural designs and specifications based on requirements has shifted to designing with both development and operational considerations in mind, including scalability, security, and deployment strategies.
+o	Benefits with DevOps in this phase: Designs that are more aligned with practical operational realities and easier to deploy and manage.
+3.	Development:
+o	The focus was on writing and implementing code based on design specifications, whereas with DevOps culture, Continuous integration of code changes into a shared repository with automated builds and tests has more priority.
+o	The challenge with the traditional method is development teams may work in isolation, leading to integration issues later. This problem can be resolved by adopting to DevOps culture as detection of integration issues will be early and this reduces risk of code conflicts.
+4.	Testing:
+o	In general, in this phase people conduct various tests like unit, integration, system, etc. to ensure software quality. With DevOps culture, Continuous testing throughout the development cycle will be performed along with automated tests running as part of the CI/CD pipeline.
+o	Without DevOps culture, testing might be done after development is complete, this causes delays and rework if defects are found. In this case DevOps provide early and frequent feedback on code quality, leading to faster identification and resolution of defects.
+5.	Deployment:
+o	In this phase, the main intention is to release the software to production environments. In other hand DevOps culture follows automated deployments using CI/CD pipelines, with frequent, incremental releases.
+o	Unlike DevOps, if there are only major releases and manual deployment processes, this can lead to errors, inconsistencies, and downtime. DevOps culture avoids this and provides consistent, reliable, and rapid deployment with reduced risk of manual errors and downtime.
+6.	Operations & Maintenance:
+o	Monitoring and maintaining the software in production, including bug fixes and updates are focused in this phase in normal process, But DevOps concentrates on continuous monitoring and automated responses to issues, with close collaboration between development and operations for quick resolution.
+o	Hand-off between development and operations can lead to delays in issue resolution and updates can be overcomes using DevOps culture. DevOps enables faster issue resolution, proactive problem management, and more reliable system performance.
+7.	Feedback:
+o	In this phase, gathering user feedback and identifying areas for improvement will be prioritized. DevOps enables continuous feedback loops from monitoring, user feedback, and performance metrics to inform ongoing development and improvements.
+o	Challenges: Feedback might be incorporated in future iterations, leading to slower responsiveness to user needs in traditional methods but DevOps provides faster adaptation to user needs and operational changes, leading to more responsive and user-centric development.
+
+In short, without DevOps, the SDLC is often more linear and segmented, leading to potential misalignments, delays, and inefficiencies. Integration between different stages can be problematic, and feedback loops are slower. Whereas, with DevOps, the SDLC becomes more iterative and integrated, fostering collaboration between development and operations. Automation, continuous integration, and continuous delivery enhance speed, quality, and responsiveness, making the overall process more efficient and agile.
+DevOps transforms the traditional SDLC into a more dynamic and collaborative process, significantly improving how software is developed, tested, and delivered.
