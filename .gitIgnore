@@ -1,0 +1,17 @@
+* Importance of .gitignore file *
+*****************************************************************************
+
+To avoid unwanted files to be committed in Remote Repository of GIT. Simply provide appropriate description in .gitignore file like,
+
+if I want to avoid files with extension of pyc file or .class file then, *.pyc *.class
+
+I'll put these two lines in .gitignore file. in future I dont need to bother for these files which will never committed in GIT repo.
+
+*****************************************************************************
+
+
+.gitignore for this project
+****************************
+
+*.class
+sample.txt
